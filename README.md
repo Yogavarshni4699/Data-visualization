@@ -19,6 +19,8 @@ Steps I followed for the analysis:
 5. Building dashboards.
 I have published those documents on the web as well as in mobile application.
 
+My Power Bi service URL:https://app.powerbi.com/groups/me/reports/cc824799-dd0d-4cdf-9d6b-08a5994cc5a7/ReportSectione0d186cdd03cbd00bebe
+
 Key Insight:
 ![image](https://user-images.githubusercontent.com/91062811/167549578-ca7cb12d-8475-43c1-ae0c-6f4a2c35ebb8.png)
 
